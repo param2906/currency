@@ -1,6 +1,7 @@
 Backend
-
+**
 cd backend
+**
 npm install
 npm run dev
 create .env file
